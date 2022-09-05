@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+        <center>
+        <div class="content">
+            <div id="login">
+                <form method="post" action="">
+                    <h1>Login</h1>
+
+                    <p>
+                        <label for="email_login">Seu e-mail"</label>
+                        <input id="email_login" name="email_login" required="required" type="text" placeholder="ex. senha"></label>
+                    </p>
+
+                    <p>
+                        <label for="email_login">Senha de e-mail</label>
+                        <input id="email_login" name="email_login" required="required" type="password" placeholder="ex. senha"></label>
+                    </p>
+
+                    <p>
+                        <input type="submit" value="Logar"></input>
+                    </p>
+
+                    <p>Confira a <a href="file:///C:/Users/lucas/OneDrive/Nova%20pasta/paginahtml2.html">Próxima</a>.</p>
+
+                </center>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
